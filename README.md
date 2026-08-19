@@ -5,19 +5,6 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-Bem-vindo ao meu repositório de estudos! 🚀 
-
-Este espaço é dedicado a documentar a minha jornada e evolução na linguagem **Python**. Aqui, organizo todos os meus exercícios práticos de forma estruturada, construindo uma base sólida de lógica de programação e servindo como meu portfólio de aprendizado.
-
----
-
-## 🎯 Objetivos do Repositório
-* Consolidar o aprendizado teórico através da resolução de problemas práticos.
-* Manter um histórico limpo e organizado da minha evolução como desenvolvedor.
-* Servir como material de consulta rápida para estruturas, funções e sintaxe do Python e de bibliotecas importantes.
-
----
-
 ## 📁 Aula 01 - Fundamentos e Lógica Básica
 
 Nesta primeira etapa, o foco foi dominar os fundamentos da linguagem, lidando com entrada e saída de dados, tipagem, operadores e estruturas de controle.
@@ -45,9 +32,3 @@ Nesta segunda etapa, os exercícios introduzem a poderosa biblioteca **NumPy**, 
 * **Exercício 5 (Contagem e Filtros):** Análise de frequência em matrizes, percorrendo e filtrando dados para identificar números que aparecem uma quantidade específica de vezes dentro do conjunto.
 
 ---
-
-## 👨‍💻 Autor
-
-**André Alves Araújo**
-
-*Desenvolvido com dedicação para aprimorar minhas habilidades em desenvolvimento de software.*
