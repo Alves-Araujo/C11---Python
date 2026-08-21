@@ -1,34 +1,37 @@
 # 🐍 Meus Estudos em Python
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
-## 📁 Aula 01 - Fundamentos e Lógica Básica
-
-Nesta primeira etapa, o foco foi dominar os fundamentos da linguagem, lidando com entrada e saída de dados, tipagem, operadores e estruturas de controle.
-
-**Exercícios Resolvidos:**
-* **Exercício 1 (Manipulação de Strings):** Lê o nome completo do usuário e mostra o nome em maiúsculas, minúsculas, a quantidade total de letras e a substituição do último sobrenome por "do Inatel".
-* **Exercício 2 (Laços de Repetição):** Exibe a tabuada de um número escolhido pelo usuário, respeitando um intervalo (início e fim) também customizado por ele.
-* **Exercício 3 (Validação com `while`):** Lê o sexo de uma pessoa (`M` ou `F`) e repete a pergunta em caso de entrada de valor inválido, garantindo a integridade do dado.
-* **Exercício 4 (Condicionais `if/else`):** Calcula o preço de uma passagem com base na distância, aplicando lógicas matemáticas para cobrar tarifas diferentes para viagens curtas (até 200Km) e longas.
-* **Exercício 5 (Lógica Matemática):** Lê um número entre 1000 e 9999 e utiliza operadores de divisão inteira e módulo para extrair a unidade, dezena, centena e milhar.
-* **Exercício 6 (Biblioteca `math`):** Solicita um número decimal e mostra sua raiz quadrada, função teto (arredondamento para cima), função chão (arredondamento para baixo) e parte inteira.
-* **Exercício 7 (Iteração de Strings):** Lê uma palavra, imprime cada letra em maiúsculo (uma por linha), informa a quantidade total de vogais e verifica a presença da letra 'A'.
-* **Exercício 8 (Calculadora):** Lê dois números e exibe os resultados das operações matemáticas básicas: adição, subtração, multiplicação, divisão, resto da divisão e potência.
+Repositório dedicado aos meus estudos, exercícios e anotações em Python. Todo o conteúdo foi organizado em atividades práticas.
 
 ---
 
-## 📁 Aula 02 - Matrizes e Vetores com NumPy
+### 📂 Estrutura do Repositório
 
-Nesta segunda etapa, os exercícios introduzem a poderosa biblioteca **NumPy**, focando na criação e manipulação de arrays unidimensionais e bidimensionais (matrizes), operações matemáticas avançadas e estatísticas.
+*   **[Atividade 01](./Atividades/Atividade_01/)**
+    *   Exercícios práticos focados em fundamentos e lógica básica de programação.
 
-**Exercícios Resolvidos:**
-* **Exercício 1 (Estatísticas em Matrizes):** Geração de matrizes com números aleatórios (utilizando *seed*), cálculo da média das linhas e colunas (usando `axis`), e busca da maior média.
-* **Exercício 2 e 3 (Operações Básicas):** Criação, dimensionamento e manipulação dos elementos estruturais de arrays no NumPy.
-* **Exercício 4 (Soma e Reshape):** Criação e soma de vetores (`np.ones` e `np.random`), cálculo do somatório total de elementos e uso de lógicas condicionais para reestruturar as linhas e colunas da matriz com a função `.reshape()`.
-* **Exercício 5 (Contagem e Filtros):** Análise de frequência em matrizes, percorrendo e filtrando dados para identificar números que aparecem uma quantidade específica de vezes dentro do conjunto.
+*   **[Atividade 02](./Atividades/Atividade_02/)**
+    *   Introdução e manipulação avançada de arrays e matrizes utilizando a biblioteca NumPy.
+    *   Criação, concatenação e ordenação de vetores pares utilizando funções matemáticas.
+    *   Geração de matrizes aleatórias bidimensionais, análise de dimensões (`shape`) e verificação de paridade sobre o total de elementos.
+    *   Desenvolvimento de um mini-jogo "Campo Minado" utilizando matrizes 2x2, posicionamento aleatório de itens e laços de repetição com interrupção condicional.
+    *   Cálculos estatísticos aplicados a matrizes (como médias de linhas/colunas e identificação de valores máximos) e contagem de frequência de elementos específicos utilizando `np.unique`.
+    *   Operações matemáticas unificadas entre arrays, cálculo de soma total e remodelagem condicional da estrutura dimensional (`reshape`) baseada em restrições de valores.
+
+*   **[Atividade 03](./Atividades/Atividade_03/)**
+    *   Exercícios práticos manipulando diferentes estruturas de dados em Python, como listas (incluindo ordenação e fatiamento), conjuntos (operações de união, intersecção e diferença) e dicionários.
+    *   Inclui lógicas condicionais e laços de repetição aplicados a cenários práticos como tabelas de campeonatos de futebol, comparação de estoque entre lojas e cálculo de média escolar de alunos.
+
+*   **[Atividade 04](./Atividades/Atividade_04/)**
+    *   Introdução à análise de dados em Python utilizando a biblioteca `pandas`.
+    *   Exercícios resolvidos analisando um dataset de missões espaciais (`space.csv`), abordando a leitura de arquivos separados por ponto e vírgula, filtragem de dados específicos e cálculos de porcentagem de sucesso.
+    *   Aplicações de funções estatísticas e de agrupamento do Pandas, como o cálculo de média de gastos (`mean()`), obtenção de valores máximos (`max()`) e contagem da quantidade de missões por empresa com `value_counts()`.
 
 ---
