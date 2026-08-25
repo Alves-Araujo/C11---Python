@@ -34,4 +34,8 @@ Repositório dedicado aos meus estudos, exercícios e anotações em Python. Tod
     *   Exercícios resolvidos analisando um dataset de missões espaciais (`space.csv`), abordando a leitura de arquivos separados por ponto e vírgula, filtragem de dados específicos e cálculos de porcentagem de sucesso.
     *   Aplicações de funções estatísticas e de agrupamento do Pandas, como o cálculo de média de gastos (`mean()`), obtenção de valores máximos (`max()`) e contagem da quantidade de missões por empresa com `value_counts()`.
 
+*   **[Simulados](./Simulados/)**
+    *   Resolução do Simulado P1 estruturado no Google Colab.
+    *   Importação de datasets externos (`paises.csv`) utilizando NumPy, fatiamento de matrizes (slicing) para extrair informações específicas como País, Região, População e Área, e manipulação de arrays bidimensionais.
+
 ---
