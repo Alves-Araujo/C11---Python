@@ -1,14 +1,18 @@
-# 🐍 Meus Estudos em Python
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="C11 · Python" />
 </p>
 
-Repositório dedicado aos meus estudos, exercícios e anotações em Python. Todo o conteúdo foi organizado em atividades práticas.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab" />
+</p>
+
+Repositório dedicado aos meus estudos, exercícios e anotações em Python, organizado por atividades práticas.
+
+> 📖 **Repositório de consulta.** Os notebooks estão com as saídas salvas, então dá para ler tudo direto pelo GitHub, sem executar nada. Os datasets usados nos exercícios acompanham as respectivas pastas.
 
 ---
 
